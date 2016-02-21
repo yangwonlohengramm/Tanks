@@ -1,6 +1,6 @@
 # Tanks
 
-Game Description
+#Game Description
 
 TANKS is a recreation of various classic tank games. The main objective of this game is to destroy the opponent’s tank. This can be accomplished by depleting the opponent’s hit points. 
 
@@ -8,7 +8,7 @@ Each tank has ten hit points initially. Successfully landing a shot on the oppon
 
 In order to win, make your opponent lose all their hit points. 
 
-Instructions for Playing the Game
+#Instructions for Playing the Game
 
 Once you open the “TANKS.py” in IDLE, press F5 to run the code. You will be presented with a screen that has the options, “1 Player Mode” and “2 Player Mode.” 
 
